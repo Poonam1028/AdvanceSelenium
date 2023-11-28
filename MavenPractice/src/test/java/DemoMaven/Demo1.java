@@ -7,13 +7,9 @@ public class Demo1 {
 @Test
 public void SampleTest()
 {
+	//welcome
 	System.out.println("hello");
+	//successfully updated
 }
 	}
 
-//pull back
-
-//1st push
-//2nd push
-
-//2nd pull
